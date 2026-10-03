@@ -1,0 +1,7 @@
+# Local hosting workspace and generated output
+.openai/
+dist/
+sites/
+
+# Unused source photo
+assets/pannatorn-portrait.jpg
